@@ -1,0 +1,1 @@
+实现一个函数 int sumEven(vector<int>& nums)，返回数组中所有偶数的和。空数组应返回 0。

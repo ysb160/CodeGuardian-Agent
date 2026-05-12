@@ -1,0 +1,10 @@
+.env
+__pycache__/
+.venv/
+*.log
+outputs/
+.pytest_cache/
+.streamlit/
+
+!codeguardian/outputs/
+!codeguardian/outputs/.gitkeep
